@@ -4,11 +4,13 @@ title = 'cabap'
 theme = 'terminal'
 
 [params]
-  logoText = "Revolutionary Blog"
-  subtitle = "Workers of the world, unite!"
-  themeColor = "red"
-  showMenuItems = 4
-  showReadingTime = true
+  contentTypeName = "posts"
+  themeColor = "green"
+  showMenuItems = 2
+  showLanguageSelector = false
+
+  # THIS is the header text
+  title = "cabap's blog"
 
 [menu]
   [[menu.main]]
