@@ -6,7 +6,7 @@ theme = 'terminal'
 [params]
   contentTypeName = "posts"
   themeColor = "green"
-  showMenuItems = 2
+  showMenuItems = 4
   showLanguageSelector = false
 
   # THIS is the header text
