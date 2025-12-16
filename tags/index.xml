@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on cabap</title>
+    <link>https://www.rivcharles.xyz/tags/</link>
+    <description>Recent content in Tags on cabap</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 16 Dec 2025 02:39:21 -0500</lastBuildDate><atom:link href="https://www.rivcharles.xyz/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>misc</title>
+      <link>https://www.rivcharles.xyz/tags/misc/</link>
+      <pubDate>Tue, 16 Dec 2025 02:39:21 -0500</pubDate>
+      
+      <guid>https://www.rivcharles.xyz/tags/misc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
