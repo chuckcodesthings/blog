@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Misc on cabap</title>
-    <link>http://localhost:1313/tags/misc/</link>
+    <link>https://www.rivcharles.xyz/tags/misc/</link>
     <description>Recent content in Misc on cabap</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 16 Dec 2025 02:39:21 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/misc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.rivcharles.xyz/tags/misc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>http://localhost:1313/posts/introduction/</link>
+      <link>https://www.rivcharles.xyz/posts/introduction/</link>
       <pubDate>Tue, 16 Dec 2025 02:39:21 -0500</pubDate>
-      <guid>http://localhost:1313/posts/introduction/</guid>
+      <guid>https://www.rivcharles.xyz/posts/introduction/</guid>
       <description>&lt;p&gt;Hello World! Welcome to Cabap&amp;rsquo;s Blog. This is a place for my various thoughts on politics, social issues and marxism. Have fun browsing through! Here&amp;rsquo;s my official website: &lt;a href=&#34;https://www.rivcharles.com/&#34;&gt;https://www.rivcharles.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
