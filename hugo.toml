@@ -1,0 +1,4 @@
+baseURL = 'https://www.rivcharles.xyz/'
+languageCode = 'en-us'
+title = 'cabap'
+theme = 'terminal'
