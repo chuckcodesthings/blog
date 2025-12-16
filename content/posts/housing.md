@@ -11,7 +11,7 @@ description = ""
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
+draft = false
 
 +++
 
@@ -184,7 +184,7 @@ Policy-wise, we need public housing mandates imposed on private development – 
  
 
 To be fair, the libertarians do have a point about zoning laws being sometimes quite harmful – forcing communities to build single-family homes in an array of car-centric developments not only plunges the city into debt the moment those roads need maintenance, but there is then no incentive or possibility to build proper public transit infrastructure. This type of Euclidian zoning also further hinders communities by isolating the work, home and third place environments. Proper zoning policy would allow mixed-use neighbourhoods and front yard businesses like cafés, haberdashers, tailors, thrift stores, the list goes on. - I really like how Portland Maine did it in their downtown. Banger place. – However, deregulation is NOT the solution, not making multiple incomes converge into the same building or neighbourhood will lead to either gentrification or a a cycle of poverty and inequality in funding when it comes to education and healthcare.
- 
+
  Rent control on the other hand isn’t a magic wand we want to use. It marginally reduces supply of renting units supply. But rent control doesn’t just limit itself to flat price caps, does it? In many areas it is effective through limiting the yearly percentage raise according to inflation. 
 
 Policy isn’t a one size fits all; for example Berlin excludes new buildings from rent control, and it has been effective. One effective policy was brought up by Unlearning Economics in his response to Abigail Thorne about 5 years ago. He cited Murray and argued that a land value tax on undeveloped, prime real estate location would make it unprofitable for developers to hoard the land and wait for it to rise in price due to scarcity. Instead, it would be more profitable for them to build commercial and residential units that would both bring in good revenue to the city, but also to the landlord, all while adding rental units to the housing market.
