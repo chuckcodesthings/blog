@@ -2,3 +2,35 @@ baseURL = "https://www.rivcharles.xyz/"
 languageCode = 'en-us'
 title = 'cabap'
 theme = 'terminal'
+
+[params]
+  logoText = "Revolutionary Blog"
+  subtitle = "Workers of the world, unite!"
+  themeColor = "red"
+  showMenuItems = 4
+  showReadingTime = true
+
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact"
+    weight = 4

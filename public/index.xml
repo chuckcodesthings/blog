@@ -2,18 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cabap</title>
-    <link>https://www.rivcharles.xyz/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on cabap</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Dec 2025 02:39:21 -0500</lastBuildDate>
-    <atom:link href="https://www.rivcharles.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Dec 2025 03:39:15 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Tue, 16 Dec 2025 03:39:15 -0500</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact me via email:&lt;code&gt;corivard@gmail.com&lt;/code&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 16 Dec 2025 03:39:10 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hi! I&amp;rsquo;m Charles, a communist militant from Quebec. I&amp;rsquo;m also active in the cubing community, which I got into around early 2014. All the relevant information about that is on its own page, from the algorithms I use to resources I often share to people.&lt;/p&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve also been studying Marxism since December 2020, and stand as a Marxist-Leninist. I&amp;rsquo;ve also been diving in the ideas of Murray Bookchin and Arne Naess, as well as cybernetic socialism and decentrally planned economies. I do think deep ecology and marxism are very intertwined and reconcilable.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Thoughts On Venezuela</title>
+      <link>http://localhost:1313/posts/thoughts_on_venezuela/</link>
+      <pubDate>Tue, 16 Dec 2025 03:31:45 -0500</pubDate>
+      <guid>http://localhost:1313/posts/thoughts_on_venezuela/</guid>
+      <description>&lt;p&gt;These past few weeks, we have seen an exacerbation of the US&amp;rsquo; warmongering rhetoric as the state department realizes that the country is losing its grips on the unilateral hegemony it has enjoyed ever since the fall of the USSR in December of 1991.&lt;/p&gt;&#xA;&lt;p&gt;The imperialist rhetoric towards Venezuela has been constantly changing in the past decades, from the good ole McCarthyite reaction to Chavismo socialism and &amp;lsquo;dictatorship&amp;rsquo; to now claims of narcotrafficking (even though Venezuela doesn&amp;rsquo;t even produce any cocaine or fentanyl).&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
-      <link>https://www.rivcharles.xyz/posts/introduction/</link>
+      <link>http://localhost:1313/posts/introduction/</link>
       <pubDate>Tue, 16 Dec 2025 02:39:21 -0500</pubDate>
-      <guid>https://www.rivcharles.xyz/posts/introduction/</guid>
-      <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;p&gt;Hello World! Welcome to Cabap&amp;rsquo;s Blog. This is a place for my various thoughts on politics, social issues and marxism. Have fun browsing through! Here&amp;rsquo;s my official website: &lt;a href=&#34;https://www.rivcharles.com/&#34;&gt;https://www.rivcharles.com/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

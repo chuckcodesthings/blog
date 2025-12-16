@@ -14,4 +14,4 @@ hideComments = false
 
 +++
 
-Hello World!
+Hello World! Welcome to Cabap's Blog. This is a place for my various thoughts on politics, social issues and marxism. Have fun browsing through! Here's my official website: https://www.rivcharles.com/
