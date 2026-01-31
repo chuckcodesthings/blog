@@ -1,17 +1,16 @@
 +++
-title = "TEMPLATE"
-date = "2025-12-16T15:21:02-05:00"
+title = "Engels Against The Anarchists"
+date = "2025-12-16T03:31:45-05:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
-author = "Charles"
+author = "Charlitics"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["socialism", "authority"]
-keywords = ["", ""]
+tags = ["politics", "commentary"]
+keywords = ["socialism", "anarchism"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 hideComments = false
-draft = false
 +++
 
 In 1872, Friedrich Engels wrote On Authority in response to the downfall of the Paris Commune, and to the criticisms given towards it by the social-democrats and anarchists. Here’s the thing: it seems that anarchists think this is one of Engels’ more important works, and that it was his entire argument against anar-chism! 
