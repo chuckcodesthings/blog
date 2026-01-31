@@ -13,12 +13,12 @@ Regarding content creation, I have made my fair share of videos, more recently  
 
 ### Useful Links
 
-**https://www.youtube.com/@Charlitics 
+**https://www.youtube.com/@Charlitics**
 
-https://buymeacoffee.com/rivcharles 
+**https://buymeacoffee.com/rivcharles** 
 
-https://bsky.app/profile/rivcharles.bsky.social 
+**https://bsky.app/profile/rivcharles.bsky.social**
 
-https://www.tiktok.com/@rivcharles 
+**https://www.tiktok.com/@rivcharles**
 
-https://medium.com/@rivcharles** 
+**https://medium.com/@rivcharles** 
