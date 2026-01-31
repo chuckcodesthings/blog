@@ -5,7 +5,7 @@ title = 'Contact'
 
 +++
 
-Contact me via email:`corivard@gmail.com`
+[Contact me via email](mailto:corivard@gmail.com)
 
 
 
