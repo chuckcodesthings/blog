@@ -11,10 +11,10 @@ I've also been studying Marxism since December 2020, and stand as a Marxist-Leni
 
 Regarding content creation, I have made my fair share of videos, more recently  longer-form educational content about social analysis. My goal on  YouTube is to share insightful thoughts on various social and political  topics from a Marxist perspective. 
 
-Useful Links
+### Useful Links
 
-https://www.youtube.com/@Charlitics
-https://buymeacoffee.com/rivcharles
-https://bsky.app/profile/rivcharles.bsky.social
-https://www.tiktok.com/@rivcharles
-https://medium.com/@rivcharles
+**https://www.youtube.com/@Charlitics 
+https://buymeacoffee.com/rivcharles 
+https://bsky.app/profile/rivcharles.bsky.social 
+https://www.tiktok.com/@rivcharles 
+https://medium.com/@rivcharles** 
