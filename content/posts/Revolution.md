@@ -1,6 +1,6 @@
 +++
 title = "Revolution Now!"
-date = "2026-03-10T15:21:02-05:00"
+date = "2026-03-10:21:02-05:00"
 #dateFormat = "2006-01-02" # This value can be configured for per-post date formatting
 author = ""
 authorTwitter = "" #do not include @
@@ -11,9 +11,8 @@ description = ""
 showFullContent = false
 readingTime = true
 hideComments = false
-draft = true
+draft = false
 +++
-
 
 We are traversing one of capitalism’s biggest crises since the great depression. We are seeing the imperialist tactics of the USA boomeranging back into the empire with unfathomable state repression, reactionary nationalism is taking hold of electoral politics in Québec and most of Europe in the face of a global systemic crisis, and the masses are quickly getting riled up without a clear direction to crush the oppressive state apparatus. Years have gone by with a constant dismantling of the labour rights and social safety nets that workers fought for in violent uprisings. The only thing protecting them in the last century was the “threat of the communist boogieman that will make us all use the communal toothbrush and send Uncle Stalin to eat all our grain with a comically large spoon if we don’t give our citizens free healthcare” but now – since 1991 - that the union has been destroyed by Yeltsin and his clique of capitalist ghouls, the  era of reform and parliamentary social democracy are over. We must act in a united and organised manner to face the problems of our generation and beyond. 
 As Albert Einstein put it: 
